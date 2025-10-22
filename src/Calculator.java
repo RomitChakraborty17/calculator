@@ -1,7 +1,9 @@
-import javax.swing.*;
+
 import java.awt.*;
+import javax.swing.*;
 
 public class Calculator extends JFrame {
+
     private JTextField display;
     private double currentValue = 0;
     private String currentOp = "";
